@@ -1,4 +1,4 @@
-```jsx
+
 import React, { useState, useEffect } from 'react';
 
 const GiveawayApp = () => {
@@ -1359,4 +1359,4 @@ const GiveawayApp = () => {
 };
 
 export default GiveawayApp;
-```
+
